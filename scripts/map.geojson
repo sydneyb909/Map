@@ -1,0 +1,268 @@
+var geoJson = [{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "title": "Berlin Cathedral",
+      "marker-size": "medium",
+      "marker-color": "#3366FF",
+      "marker-symbol": "star-stroked",
+      "images": [
+        ['<img src="images/Cathedral.jpg" />',
+          "Nazi flags hang around Berliner Dom (Berlin Cathedral- Mal Booth)."
+        ],
+        ['<img src="images/Cathedral2.jpg" />',
+          "The Cathedral Now."
+        ]
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "13.4011",
+        "52.5192"
+      ]
+    }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "title": "Alexanderplatz",
+        "marker-size": "medium",
+        "marker-color": "#e5c278",
+        "marker-symbol": "star-stroked",
+        "images": [
+          [
+            '<iframe width="180"  src="http://www.youtube.com/embed/B-m9A8mY-U0" frameborder="0" allowfullscreen></iframe>',
+            "Berlin 1900 in Color."
+          ],
+          [
+            '<img src="images/Alexanderplatz.jpg" />',
+            "Hertie Alexanderplatz 1936."
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.4133",
+          "52.5217"
+        ]
+      }
+      }, {
+        "type": "Feature",
+        "properties": {
+          "title": "Olympiostadion",
+          "marker-size": "medium",
+          "marker-color": "#3366FF",
+          "marker-symbol": "star-stroked",
+          "images": [
+            ['<img src="images/Olympiostadion Berlin.jpg" />',
+              "Berlin Olympiastadion Marathontor- Designed by Werner March in 1934 to serve as the centerpiece of the 1936 Olympic Games. The stadium survived the war and is still used today."
+            ],
+            [
+
+              '<img src="images/stday (2).jpg" />',
+
+              "The East Gate on August 1st, 1936, by Joe Haupt"
+
+            ],
+            [
+
+              '<img src="images/stday (3).jpg" />',
+
+              "The German Olympic Team enters the stadium, by Joe Haupt"
+
+            ],
+            [
+
+              '<iframe width="180"  src="https://www.youtube.com/embed/GePNydI9gX4" frameborder="0" allowfullscreen></iframe>',
+
+              "1936 Olympic Opening Ceremony, (Video credit: International Olympic Committee)"
+
+            ],
+            [
+              '<iframe width="180"  src="http://www.youtube.com/embed/HCmvDwDocrw" frameborder="0" allowfullscreen></iframe>',
+              "Hitler was highly annoyed by the series of triumphs by the marvelous colored American runner, Jesse Owens. People whose antecedents came from the jungle were primitive, Hitler said with a shrug; their physiques were stronger than those of civilized whites and hence should be excluded from future games- Albert Speer."
+            ],
+            ['<img src="images/Flame.jpg" />',
+              "The Olympic Flame."
+            ],
+            [
+
+              '<img src="images/stday (1).jpg" />',
+
+              "The Olympic Stadium in 2010, by Michael"
+
+            ],
+
+            ['<img src="images/Olympiastadion_-_Marcel_Schoenhardt.jpg" />',
+
+            "The Olympic Stadium in 2011 (Photo credit: Olympiastadion - Marcel Schoenhardt)"
+
+          ],
+
+
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.239444",
+            "52.514722"
+          ]
+        }
+        }, {
+          "type": "Feature",
+          "properties": {
+            "title": "Olympic Bell",
+            "marker-size": "medium",
+            "marker-color": "#3366FF",
+            "marker-symbol": "star-stroked",
+            "images": [
+              ['<img src="images/Olympia Glocke.jpg" />',
+                "The original bell tower stood 77 meters high, knocked down after WWII, the bell fell and cracked, weighing 9.6 tons. The bell was later rescued and serves as a memorial. Olympia-Glocke in Weissensee."
+              ]
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              "13.230693",
+              "52.513831"
+            ]
+          }
+          }, {
+            "type": "Feature",
+            "properties": {
+              "title": "Hitler Platz",
+              "marker-size": "medium",
+              "marker-color": "#3366FF",
+              "marker-symbol": "star-stroked",
+              "images": [
+                ['<img src="images/Hitler Platz.jpg" />',
+                  "Nazi flags hang around the then Hitler Platz, renamed to Theodor-Heuss-Platz. The square now contains a memorial for those who had to flee Germany during WWII. (Changing Berlin- Jasperdo)."
+                ]
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                "13.2728",
+                "52.5094"
+              ]
+            }
+            }, {
+              "type": "Feature",
+              "properties": {
+                "title": "Altes",
+                "marker-size": "medium",
+                "marker-color": "#e5c278",
+                "marker-symbol": "star-stroked",
+                "images": [
+                  [
+                    '<img src="images/Hitler Altes 2.jpg" />',
+                    "In 1939 as Germany celebrated the 50th birthday of Fuhrer Adolph Hitler in Berlin, the Altes Museum became the location for a parade down Unter den Linden followed by a speech given by Hitler representing the climax of the celebrations- Martin Milinski Museum im Lustgarten."
+                  ],
+                  [
+                    '<img src="images/Altes.jpg" />',
+                    "One of Hitler's many Nazi propaganda rallies- The Old Museum."
+                  ]
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  "13.3983",
+                  "52.5194"
+                ]
+              }
+              }, {
+                "type": "Feature",
+                "properties": {
+                  "title": "Ruhleben Internment Camp / Pentathalon Racecourse",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<img src="images/camp.jpg" />',
+                      "Built as a horse racing track in 1908 and used as a prison camp in WWI. Renovated to be used as the site of the pentathlon shooting events during the Olympics.The Pentathalon track during its time as a POW camp in WWI - Internet Archive Book Images."
+                    ],
+                    [
+                      '<img src="images/track.jpg" />',
+                      "The Ruhleben Racecourse, by Nico Jungmann."
+                    ],
+                    [
+                      '<img src="images/track3.jpg" />',
+                      "The Ruhleben Racecourse, by Nico Jungmann."
+                    ],
+                    [
+                      '<img src="images/track2.jpg" />',
+                      "Ruhleben Prison Camp - Panoramic View, by Nico Jungmann."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.2260",
+                    "52.5248"
+                  ]
+                }
+              }, {
+                "type": "Feature",
+                "properties": {
+                  "title": "Poststadion Football Complex",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<img src="images/poststadion.jpg" />',
+                      "Stadium built in 1929 and used during the Olympic football matches. Location where Norway famously defeated Germany 2-0 in front of Adolf Hitler. Poststadion in 2011, by Peter Kuley."
+                    ],
+                    [
+                      '<img src="images/postfar.jpg" />',
+                      "Poststadion Fields by Cls14."
+                    ],
+                    [
+                      '<iframe width="180"  src="http://www.youtube.com/embed/_GesogZQFME" frameborder="0" allowfullscreen></iframe>',
+                      "FC Schalke vs. FC N¸rnberg, Poststadion in June 1934."
+                    ],
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.359444",
+                    "52.530000"
+                  ]
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {
+                  "title": "Tegeler See",
+                  "marker-size": "medium",
+                  "marker-color": "#e5c278",
+                  "marker-symbol": "star-stroked",
+                  "images": [
+                    [
+                      '<img src="images/Tegeler.jpg" />',
+                      "Brandenburg Canoe clubs line up for a race on Tegeler See (photo credit A. and E. Frankl)."
+                    ],
+                    [
+                      '<img src="images/Tegel2.jpg" />',
+                      "Tegel See Now- Steve Selwood."
+                    ]
+                  ]
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                    "13.2667",
+                    "52.5833"
+                  ]
+                }
+                } ]
+      }];
